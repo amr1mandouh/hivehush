@@ -9,3 +9,7 @@ npm run typecheck
 npm run build
 ```
 
+## Preview
+
+![HiveHush preview](docs/screenshot.png)
+
